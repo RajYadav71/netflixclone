@@ -2456,24 +2456,24 @@ nav {
   border-radius: 114px;
 }
 .rm2 {
-  margin-left: -1238px;
+  margin-left: -1281px;
   margin-top: 927px;
   height: 833px;
-  width: 1207px;
+  width: 1291px;
   border-radius: 114px;
 }
 .rm3 {
-  margin-left: -1229px;
+  margin-left: -1286px;
   margin-top: 1798px;
   height: 833px;
-  width: 1205px;
+  width: 1291px;
   border-radius: 114px;
 }
 .rm4 {
-  margin-left: -1203px;
+  margin-left: -1286px;
   margin-top: 2685px;
   height: 833px;
-  width: 1116px;
+  width: 1291px;
   border-radius: 114px;
 }
 .texts8 {
@@ -2547,9 +2547,10 @@ nav {
 }
 .writer3 {
   align-items: center;
-  margin-top: 22px;
+  margin-top: 39px;
   margin-left: 226px;
   font-size: 46px;
+  display: ruby-text;
 }
 .writer4 {
   align-items: center;
@@ -2562,11 +2563,13 @@ nav {
   margin-top: 22px;
   margin-left: 229px;
   font-size: 46px;
+  display: ruby-text;
 }
 .writer6 {
   margin-top: 25px;
   margin-left: 231px;
   font-size: 46px;
+  display: ruby-text;
 }
 .writer7 {
   margin-top: 19px;
@@ -2608,10 +2611,43 @@ nav {
   font-size: 46px;
   display: ruby-text;
 }
-
-
-
-
+.writer14 {
+  margin-top: 25px;
+  margin-left: 250px;
+  font-size: 46px;
+  display: ruby-text;
+}
+.writer15 {
+  margin-top: 17px;
+  margin-left: 254px;
+  font-size: 46px;
+  display: ruby-text;
+}
+.writer16 {
+  margin-top: 17px;
+  margin-left: 257px;
+  font-size: 46px;
+  display: ruby-text;
+}
+.select-boxs {
+  width: 213px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  background-color: #000;
+  color: #ccc;
+  cursor: pointer;
+  margin-top: 103px;
+  margin-left: 138px;
+  font-size: 46px;
+  height: 89px;
+}
+.ind {
+  margin-left: 496px;
+  margin-top: -71px;
+  font-size: 61px;
+  display: ruby-text;
+}
 }
 
 
